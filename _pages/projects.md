@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of my translation projects and software work.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Translation, Software]
 horizontal: false
 ---
 
