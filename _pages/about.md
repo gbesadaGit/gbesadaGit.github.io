@@ -9,7 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Gabriel Besada</p>
+    <p>Gabriel Besada (That's me!)</p>
 
 
 news: false # includes a list of news items
@@ -24,6 +24,6 @@ I recieved my Bachelor Degree from Carnegie Mellon University, where I devloped 
 I'm working towards building my portfolio on both the translation and software end, and the results of those efforts should be showing up here sometime soon!
 
 Education
-Carnegie Mellon University
-Pittsburgh, Pennsylvania
-BS in General Studies
+<p>Carnegie Mellon University</p>
+<p>Pittsburgh, Pennsylvania</p>
+<p>BS in General Studies</p>
